@@ -1,0 +1,2 @@
+google-colab
+tqdm>=4.66
