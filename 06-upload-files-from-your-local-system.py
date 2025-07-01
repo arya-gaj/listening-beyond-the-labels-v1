@@ -1,5 +1,3 @@
-files.upload()
-
 """
 Listening Beyond the Labels – A scalable and non-invasive speech-based machine learning model for early Alzheimer's detection using mel-spectrograms and lightweight semi-supervised CNN with no transcription or neuroimaging needed.
 
@@ -20,3 +18,5 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Contact: arya-gaj@proton.me
 """
+
+files.upload()
