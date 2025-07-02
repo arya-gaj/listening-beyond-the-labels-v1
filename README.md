@@ -5,5 +5,3 @@ Alzheimer's Disease (AD), a progressive neurodegenerative condition of cognitive
 
 ### Inspiration
 Alzheimer’s disease affects over 55 million people globally and is not only a cognitive disorder but also a major cause of motor decline and physical disability in older adults [WHO, 2023]. As the disease progresses, individuals often experience impaired gait, postural instability, muscle weakness, and difficulty swallowing — conditions that can lead to falls, malnutrition, and aspiration pneumonia, a leading cause of death in late-stage AD [Alzheimer’s Association, 2023; Neurology, 2020].
-
-Despite its impact, only 1 in 4 people with AD are diagnosed, primarily due to the high cost of imaging and limited access to specialists in low-resource regions [WHO, 2023; OECD, 2021]. Recent studies, however, have shown that subtle changes in speech patterns can signal cognitive decline even before formal symptoms emerge — making voice a promising low-cost screening modality [Luz et al., 2021; Haider et al., 2020].
