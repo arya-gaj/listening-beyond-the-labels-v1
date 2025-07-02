@@ -12,5 +12,3 @@ Motivated by this, Listening Beyond The Labels introduces a speech-only, semi-su
 
 ### What it does
 Listening Beyond The Labels is a lightweight machine learning pipeline designed to detect early signs of Alzheimer’s disease using only short speech samples. The system first converts raw audio files (typically in MP3 format) into WAV format to preserve quality and compatibility, and then generates mel-spectrograms — time-frequency visual representations that capture acoustic features such as pitch, prosody, pause duration, and articulation. These patterns are known to shift during early cognitive decline.
-
-The model is trained using a semi-supervised convolutional neural network (CNN). It learns from a limited labeled dataset of speech samples from the DementiaBank Pitt Corpus [MacWhinney et al., 2011] and leverages a much larger pool of unlabeled voice recordings from the Mozilla Common Voice dataset [Ardila et al., 2020]. Using pseudo-labeling, the model assigns temporary labels to high-confidence unlabeled samples, gradually improving its accuracy and generalization.
