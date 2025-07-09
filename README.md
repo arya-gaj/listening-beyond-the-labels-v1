@@ -1,4 +1,4 @@
 <img width="900" alt="Listening Beyond The Labels" src="https://github.com/user-attachments/assets/697737da-d101-4e55-886c-eafa79cf38fe" />
 
 ### Abstract
-Alzheimer's Disease (AD), a progressive neurodegenerative condition of cognitive decline, presents formidable challenges to patients, caregivers, and healthcare systems. Early identification is essential for successful intervention, but traditional diagnosis requires expensive neuroimaging and lengthy clinical assessments, which compromise access. This study proposes a semi-supervised machine learning strategy for AD diagnosis based on acoustic features from brief speech samples. The approach takes advantage of mel-spectrogram features to extract vocal patterns without manual transcription or linguistic preprocessing. Informative sound patterns are detected using a convolutional neural network (CNN) that gradually adds unlabeled speech data during training through pseudo-labeling. By emphasizing scalable, non-invasive methods that rely solely on unprocessed vocal inputs, this work presents a practical solution for large-scale cognitive screening in resource-limited settings.
+
