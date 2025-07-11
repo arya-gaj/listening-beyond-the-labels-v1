@@ -19,6 +19,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 Contact: arya-gaj@proton.me
 """
 
-!kaggle datasets download -d aryamang2004/labeled-dementia
-!kaggle datasets download -d aryamang2004/labeled-control
 !kaggle datasets download -d aryamang2004/unlabeled
